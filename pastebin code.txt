@@ -1,0 +1,6 @@
+{
+    "SoftwareVersion": "1.0",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1449537285031854151/1449552587199090708/Release.rar?ex=693f508c&is=693dff0c&hm=512fd6e0ebd67ca955f5d1802490541856d27208d4dc9ca1b3e06e5860ebd959&",
+    "Status":"True",
+    "Changelog":"[+] Added Bootstrapper"
+}
